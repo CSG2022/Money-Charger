@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: znak
+  m_Shader: {fileID: -6465566751694194690, guid: 057022bade7b83c46b7f967ba4575af0, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_143d9d30424e4aeba0c1b465221a26e0: 20
+    - Vector1_caa57ce2eb7e453787ec3853eb98f9b1: 0
+    - debljina_struje: 0.45
+    - kolicina_struje: 0.78300005
+    - velicina: 57.4
+    m_Colors:
+    - Brzina_nojza: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - Brzina_struje_: {r: 0, g: 0.5, b: 0, a: 0}
+    - Color_42c1fc41213540a38114e0b58cd978f1: {r: 1.2440315, g: 0.58221596, b: 0.041076533, a: 1}
+    - Vector2_8e2d87b164ff492aa948def7f722a68c: {r: 0, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
